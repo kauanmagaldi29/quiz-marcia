@@ -163,6 +163,7 @@ function showResult(){
         let scoreTag = '<span>and sorry 😐, You got only <p>'+ userScore +'</p> out of <p>'+ questions.length +'</p></span>';
         scoreText.innerHTML = scoreTag;
     }
+    
 }
 
 function startTimer(time){

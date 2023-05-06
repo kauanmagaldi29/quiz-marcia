@@ -38,10 +38,10 @@ let questions = [
     question: "¿Qué significa el emoji 🤔?",
     answer: "Pensativo",
     options: [
-      "a) Confundido",
-      "b) Pensativo",
-      "c) Sarcástico",
-      "d) Curioso"
+      "Confundido",
+      "Pensativo",
+      "Sarcástico",
+      "Curioso"
     ]
   },
     {
@@ -49,10 +49,10 @@ let questions = [
     question: "¿Qué significa el emoji 🤷‍♀️?",
     answer: "No sé",
     options: [
-      "a) No sé",
-      "b) Indeciso",
-      "c) Desinteresado",
-      "d) Ignorante"
+      "No sé",
+      "Indeciso",
+      "Desinteresado",
+      "Ignorante"
     ]
   },
 
@@ -61,10 +61,10 @@ let questions = [
     question: "¿Cuál es el emoji que representa la sorpresa?",
     answer: "😯",
     options: [
-      "a) 😲",
-      "b) 😱",
-      "c) 😯",
-      "d) 😳"
+      "😲",
+      "😱",
+      "😯",
+      "😳"
     ]
   },
 
@@ -73,10 +73,10 @@ let questions = [
     question: "¿Qué significa el emoji 🤗?",
     answer: "Abrazo",
     options: [
-      "a) Abrazo",
-      "b) Felicidad",
-      "c) Agradecimiento",
-      "d) Amor"
+      "Abrazo",
+      "Felicidad",
+      "Agradecimiento",
+      "Amor"
     ]
   },
 
@@ -85,10 +85,10 @@ let questions = [
     question: "¿Cuál es el emoji que representa el miedo?",
     answer: "😨",
     options: [
-      "a) 😰",
-      "b) 😨",
-      "c) 😥",
-      "d) 😷"
+      "😰",
+      "😨",
+      "😥",
+      "😷"
     ]
   },
   
@@ -97,10 +97,10 @@ let questions = [
     question: "¿Qué significa el emoji 🙏?",
     answer: "Orar",
     options: [
-      "a) Orar",
-      "b) Pedir ayuda",
-      "c) Agradecer",
-      "d) Lamentar"
+      "Orar",
+      "Pedir ayuda",
+      "Agradecer",
+      "Lamentar"
     ]
   },
   
@@ -109,10 +109,10 @@ let questions = [
     question: "¿Cuál es el emoji que representa la ira?",
     answer: "😡",
     options: [
-      "a) 😠",
-      "b) 💢",
-      "c) 😡",
-      "d) 🔥"
+      "😠",
+      "💢",
+      "😡",
+      "🔥"
     ]
   },
 
@@ -121,10 +121,10 @@ let questions = [
     question: "¿Cuál es el emoji que representa la vergüenza?",
     answer: "🙈",
     options: [
-      "a) 😳",
-      "b) 🙈",
-      "c) 😣",
-      "d) 😫"
+      "😳",
+      "🙈",
+      "😣",
+      "😫"
     ]
   },
 
@@ -133,10 +133,10 @@ let questions = [
     question: "¿Qué significa el emoji 💔?",
     answer: "eXtensible Markup Language",
     options: [
-      "a) Soledad",
-      "b) Tristeza",
-      "c) Amor roto",
-      "d) Desamor"
+      "Soledad",
+      "Tristeza",
+      "Amor roto",
+      "Desamor"
     ]
   },
 
@@ -145,46 +145,46 @@ let questions = [
     question: "¿Qué significa el emoji 🤢?",
     answer: "Náuseas",
     options: [
-      "a) Náuseas",
-      "b) Mareo",
-      "c) Enfermedad",
-      "d) Mal humor"
+      "Náuseas",
+      "Mareo",
+      "Enfermedad",
+      "Mal humor"
     ]
   },
 
   {
     numb: 14,
-    question: "5. ¿Cuál es el emoji que representa la felicidad?",
+    question: "¿Cuál es el emoji que representa la celebración?",
     answer: "eXtensible Markup Language",
     options: [
-      "a) 😀",
-      "b) 😊",
-      "c) 😃",
-      "d) 😄"
+      " 🎉",
+      "🎊",
+      "🎈",
+      "🎁"
     ]
   },
 
   {
     numb: 15,
-    question: "5. ¿Cuál es el emoji que representa la felicidad?",
-    answer: "eXtensible Markup Language",
+    question: "¿Qué significa el emoji 🎓?",
+    answer: "Graduación",
     options: [
-      "a) 😀",
-      "b) 😊",
-      "c) 😃",
-      "d) 😄"
+      "Graduación",
+      "Educación",
+      "Conocimiento",
+      "Sabiduría"
     ]
   },
 
   {
     numb: 16,
-    question: "5. ¿Cuál es el emoji que representa la felicidad?",
-    answer: "eXtensible Markup Language",
+    question: "¿Cuál es el emoji que representa la relajación?",
+    answer: "😌",
     options: [
-      "a) 😀",
-      "b) 😊",
-      "c) 😃",
-      "d) 😄"
+      "😌",
+      "😎",
+      "🌴",
+      "🏖️"
     ]
   },
 
@@ -193,10 +193,10 @@ let questions = [
     question: "5. ¿Cuál es el emoji que representa la felicidad?",
     answer: "eXtensible Markup Language",
     options: [
-      "a) 😀",
-      "b) 😊",
-      "c) 😃",
-      "d) 😄"
+      "😀",
+      "😊",
+      "😃",
+      "😄"
     ]
   },
 
@@ -205,10 +205,10 @@ let questions = [
     question: "5. ¿Cuál es el emoji que representa la felicidad?",
     answer: "eXtensible Markup Language",
     options: [
-      "a) 😀",
-      "b) 😊",
-      "c) 😃",
-      "d) 😄"
+      "😀",
+      "😊",
+      "😃",
+      "😄"
     ]
   },
 
@@ -217,10 +217,10 @@ let questions = [
     question: "5. ¿Cuál es el emoji que representa la felicidad?",
     answer: "eXtensible Markup Language",
     options: [
-      "a) 😀",
-      "b) 😊",
-      "c) 😃",
-      "d) 😄"
+      "😀",
+      "😊",
+      "😃",
+      "😄"
     ]
   },
 
@@ -229,10 +229,10 @@ let questions = [
     question: "5. ¿Cuál es el emoji que representa la felicidad?",
     answer: "eXtensible Markup Language",
     options: [
-      "a) 😀",
-      "b) 😊",
-      "c) 😃",
-      "d) 😄"
+      "😀",
+      "😊",
+      "😃",
+      "😄"
     ]
   },
 
@@ -241,10 +241,10 @@ let questions = [
     question: "5. ¿Cuál es el emoji que representa la felicidad?",
     answer: "eXtensible Markup Language",
     options: [
-      "a) 😀",
-      "b) 😊",
-      "c) 😃",
-      "d) 😄"
+      "😀",
+      "😊",
+      "😃",
+      "😄"
     ]
   },
 ];
